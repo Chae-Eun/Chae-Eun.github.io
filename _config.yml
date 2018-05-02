@@ -2,12 +2,12 @@
 # Theme Customization #
 #######################
 
-title: CE
+title: ChaeEun
 author: Chae-Eun                            # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   Hello!
 slogan: Blog!                               # used in site header, beside title
-avatar: /i/avatar.png                       # used as portrait in site header
+avatar: /i/girl.png                       # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
@@ -39,8 +39,8 @@ projects:
     url: https://github.com/Chae-Eun/CEpython            
     role: Student
     category: Study
-  - title: Cortana
-    teaser: Web page about play, performance or show informations.
+  - title: Perfomance Info by Subway
+    teaser: Web page about play, performance or show informations by subway.
     url: https://github.com/Chae-Eun/pythonteamproject10
     role: Developer
     category: Frontend Dev
